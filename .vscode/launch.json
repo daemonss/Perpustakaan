@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/muhammadarrafi/Documents/SDA/SDA-PERPUSTAKAAN/Perpustakaan/SDA-PERPUSTAKAAN/Case1SLL",
+      "program": "/Users/muhammadarrafi/Documents/SDA/SDA-PERPUSTAKAAN/Perpustakaan/SDA-PERPUSTAKAAN/Case1SLL/build/Debug/outDebug"
+    }
+  ]
+}
